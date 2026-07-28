@@ -1,0 +1,19 @@
+{
+  "ios": {
+    "latest_version": "5.3.37",
+    "minimum_version": "5.3.37",
+    "force_update": true,
+    "store_url": "https://apps.apple.com/us/app/%D9%85%D8%B5%D9%81%D9%88%D9%81%D8%A7%D8%AA/id6760034896"
+  },
+  "android": {
+    "latest_version": "1.0.0",
+    "minimum_version": "1.0.0",
+    "force_update": false,
+    "store_url": "https://play.google.com/store/apps/details?id=com.masfufatcom.app"
+  },
+  "maintenance": {
+    "enabled": false,
+    "message_ar": "التطبيق تحت الصيانة حاليًا",
+    "message_en": "The application is currently under maintenance"
+  }
+}
